@@ -1,4 +1,4 @@
-# Daily push: copies one not-yet-pushed Java file into JavaPractice and pushes it.
+﻿# Daily push: copies one not-yet-pushed Java file into JavaPractice and pushes it.
 # Run by the Windows scheduled task "JavaPractice daily push". Use -DryRun to test without committing.
 param([switch]$DryRun)
 
@@ -10,7 +10,7 @@ $Sources = @(
     'C:\Users\Vineet\OneDrive\Desktop\beginjava',
     'C:\Users\Vineet\Downloads\Spring_Projects'
 )
-$Skip    = @('\target\', '\PetHaven\', '\ProductCrudd\', 'src	est', 'module-info.java', '\bin\')
+$Skip    = @('\target\', '\PetHaven\', '\ProductCrudd\', '\src\test\', 'module-info.java', '\bin\')
 $Secrets = @('Vinyy@2004')
 
 function Log($msg) {
