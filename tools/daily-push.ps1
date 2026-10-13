@@ -21,6 +21,7 @@ function Log($msg) {
 
 try {
     Set-Location $Repo
+    if (-not $DryRun) { git pull --rebase --quiet origin main }
     $today = Get-Date -Format 'yyyy-MM-dd'
     if (-not (Test-Path (Split-Path $Pushed))) { New-Item -ItemType Directory -Path (Split-Path $Pushed) | Out-Null }
     if (-not (Test-Path $Pushed)) { New-Item -ItemType File -Path $Pushed | Out-Null }
@@ -60,7 +61,6 @@ try {
 
     if ($DryRun) { Log "Dry run: staged files below, not committing."; git status --short; exit 0 }
 
-    git pull --rebase --quiet origin main
     git add -A
     git commit --quiet -m "Daily push: $($pick.Name)" -m "From $rel"
     git push --quiet origin main
