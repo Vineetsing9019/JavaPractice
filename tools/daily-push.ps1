@@ -10,7 +10,7 @@ $Sources = @(
     'C:\Users\Vineet\OneDrive\Desktop\beginjava',
     'C:\Users\Vineet\Downloads\Spring_Projects'
 )
-$Skip    = @('\target\', '\PetHaven\', '\ProductCrudd\', 'module-info.java', '\bin\')
+$Skip    = @('\target\', '\PetHaven\', '\ProductCrudd\', 'src	est', 'module-info.java', '\bin\')
 $Secrets = @('Vinyy@2004')
 
 function Log($msg) {
