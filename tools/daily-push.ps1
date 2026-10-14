@@ -1,6 +1,6 @@
 ﻿# Daily push: copies one not-yet-pushed Java file into JavaPractice and pushes it.
-# Run by the Windows scheduled task "JavaPractice daily push". Use -DryRun to test without committing.
-param([switch]$DryRun)
+# Run by the Windows scheduled task "JavaPractice daily push". Use -DryRun to test without committing, -Force to push an extra file today.
+param([switch]$DryRun, [switch]$Force)
 
 $ErrorActionPreference = 'Stop'
 $Repo    = 'D:\Practice'
@@ -27,7 +27,7 @@ try {
     if (-not (Test-Path $Pushed)) { New-Item -ItemType File -Path $Pushed | Out-Null }
     $done = @(Get-Content $Pushed -ErrorAction SilentlyContinue)
 
-    if (($done | Where-Object { $_ -like "$today|*" }) -and -not $DryRun) {
+    if (($done | Where-Object { $_ -like "$today|*" }) -and -not $DryRun -and -not $Force) {
         Log "Already pushed a file today; nothing to do."
         exit 0
     }
