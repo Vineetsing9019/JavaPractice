@@ -12,3 +12,4 @@
 | 2026-10-14 | [Testable.java](daily/2026-10-14/ABSTRACTION/src/types_interfaces/Testable.java) | Learning abstraction and interfaces (types interfaces) |
 | 2026-10-15 | [variable.java](daily/2026-10-15/introjava/src/day1/variable.java) | Learning Java basics (day 1) |
 | 2026-10-15 | [leapyear.java](daily/2026-10-15/introjava/src/day6/leapyear.java) | Learning Java basics (day 6) |
+| 2026-10-15 | [string.java](daily/2026-10-15/practice/src/practice/string.java) | Learning practice |
