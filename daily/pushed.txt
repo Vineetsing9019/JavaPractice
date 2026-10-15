@@ -7,3 +7,4 @@
 2026-10-15|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day6\leapyear.java
 2026-10-15|C:\Users\Vineet\OneDrive\Desktop\beginjava\practice\src\practice\string.java
 2026-10-15|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day11\oddNumbers.java
+2026-10-15|C:\Users\Vineet\OneDrive\Desktop\beginjava\ABSTRACTION\src\day2\Printable.java
