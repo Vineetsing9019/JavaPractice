@@ -13,3 +13,4 @@
 | 2026-10-15 | [variable.java](daily/2026-10-15/introjava/src/day1/variable.java) | Learning Java basics (day 1) |
 | 2026-10-15 | [leapyear.java](daily/2026-10-15/introjava/src/day6/leapyear.java) | Learning Java basics (day 6) |
 | 2026-10-15 | [string.java](daily/2026-10-15/practice/src/practice/string.java) | Learning practice |
+| 2026-10-15 | [oddNumbers.java](daily/2026-10-15/introjava/src/day11/oddNumbers.java) | Learning Java basics (day 11) |
