@@ -17,3 +17,4 @@
 | 2026-10-16 | [palindrome.java](daily/2026-10-16/Assignments/src/Assignment/palindrome.java) | Learning Java assignments (Assignment) |
 | 2026-10-16 | [Lambda2.java](daily/2026-10-16/jdk8Features/src/jdk8Featuresday1/Lambda2.java) | Learning jdk8features (jdk8Featuresday1) |
 | 2026-10-16 | [Shape.java](daily/2026-10-16/oop/src/OVERLOADING/Shape.java) | Learning oop (OVERLOADING) |
+| 2026-10-16 | [CollectionsDemo.java](daily/2026-10-16/jdk8Features/src/jdk8Featuresday1/CollectionsDemo.java) | Learning jdk8features (jdk8Featuresday1) |
