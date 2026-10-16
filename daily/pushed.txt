@@ -10,3 +10,4 @@
 2026-10-15|C:\Users\Vineet\OneDrive\Desktop\beginjava\ABSTRACTION\src\day2\Printable.java
 2026-10-15|C:\Users\Vineet\OneDrive\Desktop\beginjava\oop\src\day17\AcessModifiers_Emp.java
 2026-10-16|C:\Users\Vineet\OneDrive\Desktop\beginjava\Assignments\src\Assignment\palindrome.java
+2026-10-16|C:\Users\Vineet\OneDrive\Desktop\beginjava\jdk8Features\src\jdk8Featuresday1\Lambda2.java

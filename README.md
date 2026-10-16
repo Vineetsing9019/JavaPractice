@@ -15,3 +15,4 @@
 | 2026-10-15 | [Printable.java](daily/2026-10-15/ABSTRACTION/src/day2/Printable.java) | Learning abstraction and interfaces (day 2) |
 | 2026-10-15 | [AcessModifiers_Emp.java](daily/2026-10-15/oop/src/day17/AcessModifiers_Emp.java) | Learning oop (day 17) |
 | 2026-10-16 | [palindrome.java](daily/2026-10-16/Assignments/src/Assignment/palindrome.java) | Learning Java assignments (Assignment) |
+| 2026-10-16 | [Lambda2.java](daily/2026-10-16/jdk8Features/src/jdk8Featuresday1/Lambda2.java) | Learning jdk8features (jdk8Featuresday1) |
