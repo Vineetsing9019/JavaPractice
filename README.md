@@ -21,3 +21,4 @@
 | 2026-10-17 | [primeNumber.java](daily/2026-10-17/introjava/src/day11/primeNumber.java) | Learning Java basics (day 11) |
 | 2026-10-17 | [Car.java](daily/2026-10-17/oop/src/inheritance/Car.java) | Learning oop (inheritance) |
 | 2026-10-17 | [Person.java](daily/2026-10-17/oop/src/day22/Person.java) | Learning oop (day 22) |
+| 2026-10-17 | [pen.java](daily/2026-10-17/oop/src/day16/pen.java) | Learning oop (day 16) |
