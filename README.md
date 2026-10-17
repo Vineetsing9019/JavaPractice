@@ -19,3 +19,4 @@
 | 2026-10-16 | [Shape.java](daily/2026-10-16/oop/src/OVERLOADING/Shape.java) | Learning oop (OVERLOADING) |
 | 2026-10-16 | [CollectionsDemo.java](daily/2026-10-16/jdk8Features/src/jdk8Featuresday1/CollectionsDemo.java) | Learning jdk8features (jdk8Featuresday1) |
 | 2026-10-17 | [primeNumber.java](daily/2026-10-17/introjava/src/day11/primeNumber.java) | Learning Java basics (day 11) |
+| 2026-10-17 | [Car.java](daily/2026-10-17/oop/src/inheritance/Car.java) | Learning oop (inheritance) |
