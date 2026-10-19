@@ -27,3 +27,4 @@
 | 2026-10-19 | [FileDemo.java](daily/2026-10-19/ExceptionHandling/src/day1/FileDemo.java) | Learning exception handling (day 1) |
 | 2026-10-19 | [Car.java](daily/2026-10-19/ABSTRACTION/src/day2/Car.java) | Learning abstraction and interfaces (day 2) |
 | 2026-10-19 | [TwoDArray.java](daily/2026-10-19/ArrayDemos/src/day14/TwoDArray.java) | Learning arrays (day 14) |
+| 2026-10-19 | [Lambda3.java](daily/2026-10-19/jdk8Features/src/jdk8Featuresday1/Lambda3.java) | Learning jdk8features (jdk8Featuresday1) |
