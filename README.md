@@ -26,3 +26,4 @@
 | 2026-10-17 | [Reverse.java](daily/2026-10-17/introjava/src/day10/Reverse.java) | Learning Java basics (day 10) |
 | 2026-10-19 | [FileDemo.java](daily/2026-10-19/ExceptionHandling/src/day1/FileDemo.java) | Learning exception handling (day 1) |
 | 2026-10-19 | [Car.java](daily/2026-10-19/ABSTRACTION/src/day2/Car.java) | Learning abstraction and interfaces (day 2) |
+| 2026-10-19 | [TwoDArray.java](daily/2026-10-19/ArrayDemos/src/day14/TwoDArray.java) | Learning arrays (day 14) |
