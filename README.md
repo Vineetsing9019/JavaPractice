@@ -24,3 +24,4 @@
 | 2026-10-17 | [pen.java](daily/2026-10-17/oop/src/day16/pen.java) | Learning oop (day 16) |
 | 2026-10-17 | [largestofThree.java](daily/2026-10-17/introjava/src/day5/largestofThree.java) | Learning Java basics (day 5) |
 | 2026-10-17 | [Reverse.java](daily/2026-10-17/introjava/src/day10/Reverse.java) | Learning Java basics (day 10) |
+| 2026-10-19 | [FileDemo.java](daily/2026-10-19/ExceptionHandling/src/day1/FileDemo.java) | Learning exception handling (day 1) |
