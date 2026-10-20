@@ -24,3 +24,4 @@
 2026-10-19|C:\Users\Vineet\OneDrive\Desktop\beginjava\ArrayDemos\src\day14\TwoDArray.java
 2026-10-19|C:\Users\Vineet\OneDrive\Desktop\beginjava\jdk8Features\src\jdk8Featuresday1\Lambda3.java
 2026-10-19|C:\Users\Vineet\OneDrive\Desktop\beginjava\Collection\src\day1\Student.java
+2026-10-20|C:\Users\Vineet\OneDrive\Desktop\beginjava\ArrayDemos\src\day14\SumOfArray.java

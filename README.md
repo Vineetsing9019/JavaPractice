@@ -29,3 +29,4 @@
 | 2026-10-19 | [TwoDArray.java](daily/2026-10-19/ArrayDemos/src/day14/TwoDArray.java) | Learning arrays (day 14) |
 | 2026-10-19 | [Lambda3.java](daily/2026-10-19/jdk8Features/src/jdk8Featuresday1/Lambda3.java) | Learning jdk8features (jdk8Featuresday1) |
 | 2026-10-19 | [Student.java](daily/2026-10-19/Collection/src/day1/Student.java) | Learning the Collections framework (day 1) |
+| 2026-10-20 | [SumOfArray.java](daily/2026-10-20/ArrayDemos/src/day14/SumOfArray.java) | Learning arrays (day 14) |
