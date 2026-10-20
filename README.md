@@ -31,3 +31,4 @@
 | 2026-10-19 | [Student.java](daily/2026-10-19/Collection/src/day1/Student.java) | Learning the Collections framework (day 1) |
 | 2026-10-20 | [SumOfArray.java](daily/2026-10-20/ArrayDemos/src/day14/SumOfArray.java) | Learning arrays (day 14) |
 | 2026-10-20 | [MethodDemo.java](daily/2026-10-20/oop/src/day16/MethodDemo.java) | Learning oop (day 16) |
+| 2026-10-20 | [AccountMethod.java](daily/2026-10-20/Assignments/src/Assignment/AccountMethod.java) | Learning Java assignments (Assignment) |
