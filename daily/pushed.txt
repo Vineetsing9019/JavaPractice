@@ -28,3 +28,4 @@
 2026-10-20|C:\Users\Vineet\OneDrive\Desktop\beginjava\oop\src\day16\MethodDemo.java
 2026-10-20|C:\Users\Vineet\OneDrive\Desktop\beginjava\Assignments\src\Assignment\AccountMethod.java
 2026-10-20|C:\Users\Vineet\OneDrive\Desktop\beginjava\ExceptionHandling\src\day2\ThrowsDemo.java
+2026-10-20|C:\Users\Vineet\OneDrive\Desktop\beginjava\Encapsulation\src\new1\TestClass.java
