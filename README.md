@@ -36,3 +36,4 @@
 | 2026-10-20 | [TestClass.java](daily/2026-10-20/Encapsulation/src/new1/TestClass.java) | Learning encapsulation (new1) |
 | 2026-10-21 | [Factorial.java](daily/2026-10-21/Assignments/src/Assignment/Factorial.java) | Learning Java assignments (Assignment) |
 | 2026-10-21 | [Additionof.java](daily/2026-10-21/introjava/src/Day9/Additionof.java) | Learning Java basics (day 9) |
+| 2026-10-21 | [ReverseArray.java](daily/2026-10-21/Assignments/src/Assignment/ReverseArray.java) | Learning Java assignments (Assignment) |
