@@ -34,3 +34,4 @@
 | 2026-10-20 | [AccountMethod.java](daily/2026-10-20/Assignments/src/Assignment/AccountMethod.java) | Learning Java assignments (Assignment) |
 | 2026-10-20 | [ThrowsDemo.java](daily/2026-10-20/ExceptionHandling/src/day2/ThrowsDemo.java) | Learning exception handling (day 2) |
 | 2026-10-20 | [TestClass.java](daily/2026-10-20/Encapsulation/src/new1/TestClass.java) | Learning encapsulation (new1) |
+| 2026-10-21 | [Factorial.java](daily/2026-10-21/Assignments/src/Assignment/Factorial.java) | Learning Java assignments (Assignment) |
