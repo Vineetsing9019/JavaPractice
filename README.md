@@ -38,3 +38,4 @@
 | 2026-10-21 | [Additionof.java](daily/2026-10-21/introjava/src/Day9/Additionof.java) | Learning Java basics (day 9) |
 | 2026-10-21 | [ReverseArray.java](daily/2026-10-21/Assignments/src/Assignment/ReverseArray.java) | Learning Java assignments (Assignment) |
 | 2026-10-21 | [SecondHighest.java](daily/2026-10-21/Assignments/src/Assignment/SecondHighest.java) | Learning Java assignments (Assignment) |
+| 2026-10-22 | [Yesno.java](daily/2026-10-22/practice/src/practice/Yesno.java) | Learning practice |
