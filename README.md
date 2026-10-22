@@ -40,3 +40,4 @@
 | 2026-10-21 | [SecondHighest.java](daily/2026-10-21/Assignments/src/Assignment/SecondHighest.java) | Learning Java assignments (Assignment) |
 | 2026-10-22 | [Yesno.java](daily/2026-10-22/practice/src/practice/Yesno.java) | Learning practice |
 | 2026-10-22 | [Declare.java](daily/2026-10-22/oop/src/day16/Declare.java) | Learning oop (day 16) |
+| 2026-10-22 | [table.java](daily/2026-10-22/introjava/src/day8/table.java) | Learning Java basics (day 8) |
