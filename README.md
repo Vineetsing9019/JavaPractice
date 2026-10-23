@@ -44,3 +44,4 @@
 | 2026-10-22 | [TwoD.java](daily/2026-10-22/ArrayDemos/src/day15/TwoD.java) | Learning arrays (day 15) |
 | 2026-10-23 | [Seperation.java](daily/2026-10-23/introjava/src/Day9/Seperation.java) | Learning Java basics (day 9) |
 | 2026-10-23 | [MutableString.java](daily/2026-10-23/oop/src/StringDemo/MutableString.java) | Learning oop (StringDemo) |
+| 2026-10-23 | [Testable.java](daily/2026-10-23/ABSTRACTION/src/day2/Testable.java) | Learning abstraction and interfaces (day 2) |
