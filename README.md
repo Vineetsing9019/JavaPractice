@@ -49,3 +49,4 @@
 | 2026-10-24 | [Intro.java](daily/2026-10-24/ExceptionHandling/src/day1/Intro.java) | Learning exception handling (day 1) |
 | 2026-10-24 | [EmployeeDaoImpl.java](daily/2026-10-24/EmployeeCrudJdbc/src/com/itvedant/emp/repository/EmployeeDaoImpl.java) | Learning repositories in CRUD with JDBC |
 | 2026-10-24 | [Employee.java](daily/2026-10-24/oop/src/day17/Employee.java) | Learning oop (day 17) |
+| 2026-10-24 | [FinalDemo.java](daily/2026-10-24/oop/src/day18/FinalDemo.java) | Learning oop (day 18) |
