@@ -41,3 +41,4 @@
 2026-10-23|C:\Users\Vineet\OneDrive\Desktop\beginjava\oop\src\StringDemo\MutableString.java
 2026-10-23|C:\Users\Vineet\OneDrive\Desktop\beginjava\ABSTRACTION\src\day2\Testable.java
 2026-10-23|C:\Users\Vineet\OneDrive\Desktop\beginjava\jdk8Features\src\jdk8Featuresday1\LambdaDemo.java
+2026-10-24|C:\Users\Vineet\OneDrive\Desktop\beginjava\ExceptionHandling\src\day1\Intro.java
