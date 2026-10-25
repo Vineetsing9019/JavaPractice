@@ -50,3 +50,4 @@
 | 2026-10-24 | [EmployeeDaoImpl.java](daily/2026-10-24/EmployeeCrudJdbc/src/com/itvedant/emp/repository/EmployeeDaoImpl.java) | Learning repositories in CRUD with JDBC |
 | 2026-10-24 | [Employee.java](daily/2026-10-24/oop/src/day17/Employee.java) | Learning oop (day 17) |
 | 2026-10-24 | [FinalDemo.java](daily/2026-10-24/oop/src/day18/FinalDemo.java) | Learning oop (day 18) |
+| 2026-10-25 | [division.java](daily/2026-10-25/introjava/src/day3/division.java) | Learning Java basics (day 3) |
