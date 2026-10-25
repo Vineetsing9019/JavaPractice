@@ -53,3 +53,4 @@
 | 2026-10-25 | [division.java](daily/2026-10-25/introjava/src/day3/division.java) | Learning Java basics (day 3) |
 | 2026-10-25 | [mathfunc.java](daily/2026-10-25/introjava/src/day4/mathfunc.java) | Learning Java basics (day 4) |
 | 2026-10-25 | [Triangle.java](daily/2026-10-25/introjava/src/day12/Triangle.java) | Learning Java basics (day 12) |
+| 2026-10-25 | [Intro.java](daily/2026-10-25/MultiThreading.java/src/day1/Intro.java) | Learning multi threading.java (day 1) |
