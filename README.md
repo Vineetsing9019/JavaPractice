@@ -56,3 +56,4 @@
 | 2026-10-25 | [Intro.java](daily/2026-10-25/MultiThreading.java/src/day1/Intro.java) | Learning multi threading.java (day 1) |
 | 2026-10-26 | [Num.java](daily/2026-10-26/introjava/src/day11/Num.java) | Learning Java basics (day 11) |
 | 2026-10-26 | [RunnableDemo.java](daily/2026-10-26/jdk8Features/src/jdk8Featuresday1/RunnableDemo.java) | Learning jdk8features (jdk8Featuresday1) |
+| 2026-10-26 | [Array.java](daily/2026-10-26/ArrayDemos/src/day14/Array.java) | Learning arrays (day 14) |
