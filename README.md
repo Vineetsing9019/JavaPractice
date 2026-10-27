@@ -59,3 +59,4 @@
 | 2026-10-26 | [Array.java](daily/2026-10-26/ArrayDemos/src/day14/Array.java) | Learning arrays (day 14) |
 | 2026-10-26 | [Useofscanner.java](daily/2026-10-26/practice/src/day2/Useofscanner.java) | Learning practice (day 2) |
 | 2026-10-27 | [Evenodd2.java](daily/2026-10-27/introjava/src/day8/Evenodd2.java) | Learning Java basics (day 8) |
+| 2026-10-27 | [PrimeNumber.java](daily/2026-10-27/Assignments/src/Assignment/PrimeNumber.java) | Learning Java assignments (Assignment) |
