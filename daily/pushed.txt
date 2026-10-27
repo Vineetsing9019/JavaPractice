@@ -53,3 +53,4 @@
 2026-10-26|C:\Users\Vineet\OneDrive\Desktop\beginjava\jdk8Features\src\jdk8Featuresday1\RunnableDemo.java
 2026-10-26|C:\Users\Vineet\OneDrive\Desktop\beginjava\ArrayDemos\src\day14\Array.java
 2026-10-26|C:\Users\Vineet\OneDrive\Desktop\beginjava\practice\src\day2\Useofscanner.java
+2026-10-27|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day8\Evenodd2.java
