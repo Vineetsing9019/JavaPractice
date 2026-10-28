@@ -64,3 +64,4 @@
 | 2026-10-27 | [DateTimeClass.java](daily/2026-10-27/jdk8Features/src/jdk8Featuresday1/DateTimeClass.java) | Learning jdk8features (jdk8Featuresday1) |
 | 2026-10-28 | [MethodSuare.java](daily/2026-10-28/oop/src/day16/MethodSuare.java) | Learning oop (day 16) |
 | 2026-10-28 | [EmployeeManagement.java](daily/2026-10-28/EmployeeCrudJdbc/src/com/itvedant/emp/test/EmployeeManagement.java) | Learning CRUD with JDBC (test) |
+| 2026-10-28 | [Employee.java](daily/2026-10-28/Collection/src/day1/Employee.java) | Learning the Collections framework (day 1) |
