@@ -58,3 +58,4 @@
 2026-10-27|C:\Users\Vineet\OneDrive\Desktop\beginjava\oop\src\day16\Method.java
 2026-10-27|C:\Users\Vineet\OneDrive\Desktop\beginjava\jdk8Features\src\jdk8Featuresday1\DateTimeClass.java
 2026-10-28|C:\Users\Vineet\OneDrive\Desktop\beginjava\oop\src\day16\MethodSuare.java
+2026-10-28|C:\Users\Vineet\OneDrive\Desktop\beginjava\EmployeeCrudJdbc\src\com\itvedant\emp\test\EmployeeManagement.java
