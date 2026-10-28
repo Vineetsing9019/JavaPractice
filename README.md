@@ -62,3 +62,4 @@
 | 2026-10-27 | [PrimeNumber.java](daily/2026-10-27/Assignments/src/Assignment/PrimeNumber.java) | Learning Java assignments (Assignment) |
 | 2026-10-27 | [Method.java](daily/2026-10-27/oop/src/day16/Method.java) | Learning oop (day 16) |
 | 2026-10-27 | [DateTimeClass.java](daily/2026-10-27/jdk8Features/src/jdk8Featuresday1/DateTimeClass.java) | Learning jdk8features (jdk8Featuresday1) |
+| 2026-10-28 | [MethodSuare.java](daily/2026-10-28/oop/src/day16/MethodSuare.java) | Learning oop (day 16) |
