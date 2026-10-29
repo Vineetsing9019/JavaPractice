@@ -67,3 +67,4 @@
 | 2026-10-28 | [Employee.java](daily/2026-10-28/Collection/src/day1/Employee.java) | Learning the Collections framework (day 1) |
 | 2026-10-28 | [NestedLoop.java](daily/2026-10-28/introjava/src/day11/NestedLoop.java) | Learning Java basics (day 11) |
 | 2026-10-29 | [divisibleby.java](daily/2026-10-29/introjava/src/day5/divisibleby.java) | Learning Java basics (day 5) |
+| 2026-10-29 | [Atox.java](daily/2026-10-29/introjava/src/day11/Atox.java) | Learning Java basics (day 11) |
