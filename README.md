@@ -69,3 +69,4 @@
 | 2026-10-29 | [divisibleby.java](daily/2026-10-29/introjava/src/day5/divisibleby.java) | Learning Java basics (day 5) |
 | 2026-10-29 | [Atox.java](daily/2026-10-29/introjava/src/day11/Atox.java) | Learning Java basics (day 11) |
 | 2026-10-29 | [PetDao.java](daily/2026-10-29/PetCrudJdbc/src/com/itvedant/pet/repository/PetDao.java) | Learning repositories in CRUD with JDBC |
+| 2026-10-29 | [Aeroplane.java](daily/2026-10-29/ABSTRACTION/src/day2/Aeroplane.java) | Learning abstraction and interfaces (day 2) |
