@@ -67,3 +67,4 @@
 2026-10-29|C:\Users\Vineet\OneDrive\Desktop\beginjava\ABSTRACTION\src\day2\Aeroplane.java
 2026-10-30|C:\Users\Vineet\OneDrive\Desktop\beginjava\Collection\src\day1\College.java
 2026-10-30|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day4\evenodd.java
+2026-10-30|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day6\rank.java
