@@ -73,3 +73,4 @@
 | 2026-10-30 | [College.java](daily/2026-10-30/Collection/src/day1/College.java) | Learning the Collections framework (day 1) |
 | 2026-10-30 | [evenodd.java](daily/2026-10-30/introjava/src/day4/evenodd.java) | Learning Java basics (day 4) |
 | 2026-10-30 | [rank.java](daily/2026-10-30/introjava/src/day6/rank.java) | Learning Java basics (day 6) |
+| 2026-10-30 | [Triangles.java](daily/2026-10-30/introjava/src/day12/Triangles.java) | Learning Java basics (day 12) |
