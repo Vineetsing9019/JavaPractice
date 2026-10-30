@@ -71,3 +71,4 @@
 | 2026-10-29 | [PetDao.java](daily/2026-10-29/PetCrudJdbc/src/com/itvedant/pet/repository/PetDao.java) | Learning repositories in CRUD with JDBC |
 | 2026-10-29 | [Aeroplane.java](daily/2026-10-29/ABSTRACTION/src/day2/Aeroplane.java) | Learning abstraction and interfaces (day 2) |
 | 2026-10-30 | [College.java](daily/2026-10-30/Collection/src/day1/College.java) | Learning the Collections framework (day 1) |
+| 2026-10-30 | [evenodd.java](daily/2026-10-30/introjava/src/day4/evenodd.java) | Learning Java basics (day 4) |
