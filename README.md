@@ -77,3 +77,4 @@
 | 2026-10-31 | [Employee.java](daily/2026-10-31/EmployeeCrudJdbc/src/com/itvedant/emp/models/Employee.java) | Learning entity models in CRUD with JDBC |
 | 2026-10-31 | [Demo.java](daily/2026-10-31/MultiThreading.java/src/day1/Demo.java) | Learning multi threading.java (day 1) |
 | 2026-10-31 | [voter.java](daily/2026-10-31/ExceptionHandling/src/day2/voter.java) | Learning exception handling (day 2) |
+| 2026-10-31 | [Pet.java](daily/2026-10-31/PetCrudJdbc/src/com/itvedant/pet/models/Pet.java) | Learning entity models in CRUD with JDBC |
