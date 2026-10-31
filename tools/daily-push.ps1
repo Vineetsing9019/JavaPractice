@@ -10,7 +10,7 @@ $Sources = @(
     'C:\Users\Vineet\OneDrive\Desktop\beginjava'
 )   # Spring classes go to SpringPractice (D:\SpringPractice\tools\daily-push.ps1) from 15 Oct 2026
 $Skip    = @('\target\', '\PetHaven\', '\ProductCrudd\', '\src\test\', 'module-info.java', '\bin\')
-$Secrets = @('Vinyy@2004')
+$Secrets = @(Get-Content 'D:\daily-push\secrets.txt' -ErrorAction SilentlyContinue | Where-Object { $_ })   # passwords to hide, one per line; the file is outside every repo
 $BS      = [string][char]92
 
 # Folder name -> topic the file is learning. Anything not listed is split from CamelCase.
