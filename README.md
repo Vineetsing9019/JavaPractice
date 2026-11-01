@@ -81,3 +81,4 @@
 | 2026-11-01 | [Account.java](daily/2026-11-01/Assignments/src/Assignment/Account.java) | Learning Java assignments (Assignment) |
 | 2026-11-01 | [Fibonacci.java](daily/2026-11-01/introjava/src/day13/Fibonacci.java) | Learning Java basics (day 13) |
 | 2026-11-01 | [factor.java](daily/2026-11-01/introjava/src/day10/factor.java) | Learning Java basics (day 10) |
+| 2026-11-01 | [Parent.java](daily/2026-11-01/ABSTRACTION/src/types_interfaces/Parent.java) | Learning abstraction and interfaces (types interfaces) |

@@ -76,3 +76,4 @@
 2026-11-01|C:\Users\Vineet\OneDrive\Desktop\beginjava\Assignments\src\Assignment\Account.java
 2026-11-01|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day13\Fibonacci.java
 2026-11-01|C:\Users\Vineet\OneDrive\Desktop\beginjava\introjava\src\day10\factor.java
+2026-11-01|C:\Users\Vineet\OneDrive\Desktop\beginjava\ABSTRACTION\src\types_interfaces\Parent.java
