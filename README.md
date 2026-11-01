@@ -79,3 +79,4 @@
 | 2026-10-31 | [voter.java](daily/2026-10-31/ExceptionHandling/src/day2/voter.java) | Learning exception handling (day 2) |
 | 2026-10-31 | [Pet.java](daily/2026-10-31/PetCrudJdbc/src/com/itvedant/pet/models/Pet.java) | Learning entity models in CRUD with JDBC |
 | 2026-11-01 | [Account.java](daily/2026-11-01/Assignments/src/Assignment/Account.java) | Learning Java assignments (Assignment) |
+| 2026-11-01 | [Fibonacci.java](daily/2026-11-01/introjava/src/day13/Fibonacci.java) | Learning Java basics (day 13) |
