@@ -83,3 +83,4 @@
 | 2026-11-01 | [factor.java](daily/2026-11-01/introjava/src/day10/factor.java) | Learning Java basics (day 10) |
 | 2026-11-01 | [Parent.java](daily/2026-11-01/ABSTRACTION/src/types_interfaces/Parent.java) | Learning abstraction and interfaces (types interfaces) |
 | 2026-11-02 | [day1.java](daily/2026-11-02/introjava/src/day1/day1.java) | Learning Java basics (day 1) |
+| 2026-11-02 | [DataProcessing.java](daily/2026-11-02/Jdbc/src/day1/DataProcessing.java) | Learning JDBC (day 1) |
