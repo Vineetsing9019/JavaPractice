@@ -85,3 +85,4 @@
 | 2026-11-02 | [day1.java](daily/2026-11-02/introjava/src/day1/day1.java) | Learning Java basics (day 1) |
 | 2026-11-02 | [DataProcessing.java](daily/2026-11-02/Jdbc/src/day1/DataProcessing.java) | Learning JDBC (day 1) |
 | 2026-11-02 | [Demo1.java](daily/2026-11-02/Jdbc/src/day1/Demo1.java) | Learning JDBC (day 1) |
+| 2026-11-02 | [Account.java](daily/2026-11-02/oop/src/inheritance/Account.java) | Learning oop (inheritance) |
