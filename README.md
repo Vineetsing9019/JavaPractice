@@ -89,3 +89,4 @@
 | 2026-11-03 | [d1.java](daily/2026-11-03/practice/src/practice/d1.java) | Learning practice |
 | 2026-11-03 | [Practice2.java](daily/2026-11-03/practice/src/practice/Practice2.java) | Learning practice |
 | 2026-11-03 | [Day.java](daily/2026-11-03/practice/src/day3/Day.java) | Learning practice (day 3) |
+| 2026-11-03 | [Student.java](daily/2026-11-03/oop/src/day17/Student.java) | Learning oop (day 17) |
