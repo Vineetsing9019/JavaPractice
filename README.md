@@ -87,3 +87,4 @@
 | 2026-11-02 | [Demo1.java](daily/2026-11-02/Jdbc/src/day1/Demo1.java) | Learning JDBC (day 1) |
 | 2026-11-02 | [Account.java](daily/2026-11-02/oop/src/inheritance/Account.java) | Learning oop (inheritance) |
 | 2026-11-03 | [d1.java](daily/2026-11-03/practice/src/practice/d1.java) | Learning practice |
+| 2026-11-03 | [Practice2.java](daily/2026-11-03/practice/src/practice/Practice2.java) | Learning practice |
