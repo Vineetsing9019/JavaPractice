@@ -91,3 +91,4 @@
 | 2026-11-03 | [Day.java](daily/2026-11-03/practice/src/day3/Day.java) | Learning practice (day 3) |
 | 2026-11-03 | [Student.java](daily/2026-11-03/oop/src/day17/Student.java) | Learning oop (day 17) |
 | 2026-11-04 | [PetDaoImpl.java](daily/2026-11-04/PetCrudJdbc/src/com/itvedant/pet/repository/PetDaoImpl.java) | Learning repositories in CRUD with JDBC |
+| 2026-11-04 | [Company.java](daily/2026-11-04/Collection/src/day1/Company.java) | Learning the Collections framework (day 1) |
