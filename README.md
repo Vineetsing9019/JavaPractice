@@ -1,4 +1,6 @@
-# JavaPractice 
+# JavaPractice
+
+Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction, interfaces, static), exception handling, collections, multithreading, Java 8 features (lambdas and streams) and CRUD apps with JDBC and MySQL. New files every day.
 
 ## Projects
 
