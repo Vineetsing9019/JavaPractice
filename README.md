@@ -96,3 +96,4 @@
 | 2026-11-04 | [LoopBreak.java](daily/2026-11-04/introjava/src/day10/LoopBreak.java) | Learning Java basics (day 10) |
 | 2026-11-05 | [EmployeeDao.java](daily/2026-11-05/EmployeeCrudJdbc/src/com/itvedant/emp/repository/EmployeeDao.java) | Learning repositories in CRUD with JDBC |
 | 2026-11-05 | [StaticDemo.java](daily/2026-11-05/oop/src/day18/StaticDemo.java) | Learning oop (day 18) |
+| 2026-11-05 | [square.java](daily/2026-11-05/introjava/src/day8/square.java) | Learning Java basics (day 8) |
