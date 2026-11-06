@@ -101,3 +101,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-05 | [square.java](daily/2026-11-05/introjava/src/day8/square.java) | Learning Java basics (day 8) |
 | 2026-11-05 | [PetTest.java](daily/2026-11-05/PetCrudJdbc/src/com/itvedant/pet/test/PetTest.java) | Learning CRUD with JDBC (test) |
 | 2026-11-06 | [Char.java](daily/2026-11-06/introjava/src/day11/Char.java) | Learning Java basics (day 11) |
+| 2026-11-06 | [addition.java](daily/2026-11-06/introjava/src/Day9/addition.java) | Learning Java basics (day 9) |
