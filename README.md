@@ -115,3 +115,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-15 | [PrimeNumbers1To100.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/PrimeNumbers1To100.java) | Learning practice questions |
 | 2026-11-15 | [FloydsTriangle.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/FloydsTriangle.java) | Learning practice questions |
 | 2026-11-15 | [ArmstrongNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/ArmstrongNumber.java) | Learning practice questions |
+| 2026-11-15 | [FibonacciSeries.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/FibonacciSeries.java) | Learning practice questions |
