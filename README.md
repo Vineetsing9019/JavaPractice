@@ -112,3 +112,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-15 | [SumOfNumbers.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/SumOfNumbers.java) | Learning practice questions |
 | 2026-11-15 | [MultiplicationTable.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/MultiplicationTable.java) | Learning practice questions |
 | 2026-11-15 | [ProductOfDigits.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/ProductOfDigits.java) | Learning practice questions |
+| 2026-11-15 | [PrimeNumbers1To100.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/PrimeNumbers1To100.java) | Learning practice questions |
