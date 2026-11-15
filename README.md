@@ -107,3 +107,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-15 | [ReverseNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/ReverseNumber.java) | Learning practice questions |
 | 2026-11-15 | [PalindromeNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/PalindromeNumber.java) | Learning practice questions |
 | 2026-11-15 | [PrimeNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/PrimeNumber.java) | Learning practice questions |
+| 2026-11-15 | [PrimeFactors.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/PrimeFactors.java) | Learning practice questions |
