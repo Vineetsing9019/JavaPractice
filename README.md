@@ -104,3 +104,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-06 | [addition.java](daily/2026-11-06/introjava/src/Day9/addition.java) | Learning Java basics (day 9) |
 | 2026-11-06 | [Evenodd.java](daily/2026-11-06/introjava/src/day8/Evenodd.java) | Learning Java basics (day 8) |
 | 2026-11-06 | [Employee.java](daily/2026-11-06/oop/src/Static_demo/Employee.java) | Learning oop (Static demo) |
+| 2026-11-15 | [ReverseNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/ReverseNumber.java) | Learning practice questions |
