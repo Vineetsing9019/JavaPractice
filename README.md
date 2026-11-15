@@ -110,3 +110,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-15 | [PrimeFactors.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/PrimeFactors.java) | Learning practice questions |
 | 2026-11-15 | [NeonNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/NeonNumber.java) | Learning practice questions |
 | 2026-11-15 | [SumOfNumbers.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/SumOfNumbers.java) | Learning practice questions |
+| 2026-11-15 | [MultiplicationTable.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/MultiplicationTable.java) | Learning practice questions |
