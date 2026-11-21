@@ -119,3 +119,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-15 | [ProductSort.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/ProductSort.java) | Learning practice questions |
 | 2026-11-15 | [Product.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/Product.java) | Learning practice questions |
 | 2026-11-15 | [StrongNumber.java](daily/2026-11-15/practiceQuestions/src/PracticeQuestions/StrongNumber.java) | Learning practice questions |
+| 2026-11-21 | [Person.java](daily/2026-11-21/CoreJava/src/Day1/Person.java) | Learning core java (day 1) |
