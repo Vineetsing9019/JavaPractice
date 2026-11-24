@@ -125,3 +125,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-21 | [TestCar.java](daily/2026-11-21/CoreJava/src/Day1/TestCar.java) | Learning core java (day 1) |
 | 2026-11-21 | [Car.java](daily/2026-11-21/CoreJava/src/Day1/Car.java) | Learning core java (day 1) |
 | 2026-11-24 | [TestBike.java](daily/2026-11-24/CoreJava/src/Day1/TestBike.java) | Learning core java (day 1) |
+| 2026-11-24 | [Bike.java](daily/2026-11-24/CoreJava/src/Day1/Bike.java) | Learning core java (day 1) |
