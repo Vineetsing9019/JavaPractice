@@ -1,4 +1,3 @@
-﻿// Learning core java (day 2) - practice file from CoreJava, pushed 2026-11-27
 package Day2;
 
 public class Operators {
@@ -13,10 +12,11 @@ public class Operators {
 		System.out.println(" Subtraction:" + (a - b));
 		System.out.println(" Multiplication:" +(a * b));
 		System.out.println(" Division:" + (a / b));
-		System.out.println(" Modulas:" + (a % b));
+		System.out.println(" Modulus:" + (a % b));
 		System.out.println(" Divide with decimal:" + (10.0 / 3));
+		System.out.println(" Cheking even:" + (a % 2 == 0));
+		System.out.println(" Checking odd:" + (a % 2 != 0));
 	}
 		
 	}
-
 
