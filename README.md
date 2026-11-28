@@ -132,3 +132,4 @@ Core Java practice from my course: basics, arrays, OOP (inheritance, abstraction
 | 2026-11-28 | [IncrementDecrement.java](daily/2026-11-28/CoreJava/src/Day3/IncrementDecrement.java) | Learning core java (day 3) |
 | 2026-11-28 | [RelationalOperators.java](daily/2026-11-28/CoreJava/src/Day3/RelationalOperators.java) | Learning core java (day 3) |
 | 2026-11-28 | [LogicalOperators.java](daily/2026-11-28/CoreJava/src/Day3/LogicalOperators.java) | Learning core java (day 3) |
+| 2026-11-28 | [TernaryOperator.java](daily/2026-11-28/CoreJava/src/Day3/TernaryOperator.java) | Learning core java (day 3) |
