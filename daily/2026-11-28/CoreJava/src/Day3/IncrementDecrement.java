@@ -1,4 +1,3 @@
-﻿// Learning core java (day 3) - practice file from CoreJava, pushed 2026-11-28
 package Day3;
 
 public class IncrementDecrement { 
@@ -13,6 +12,10 @@ public class IncrementDecrement {
 		
 		balls--;
 		System.out.println(" Balls left " + balls);
+		
+		int a = 10;
+		System.out.println(" a++ gives: " + a++);
+		System.out.println(" now a is: " + a);
+		System.out.println(" ++a gives: " + ++a);
 	}
 }
-
